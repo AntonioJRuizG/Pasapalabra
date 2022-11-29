@@ -5,4 +5,4 @@
 <br /> 4 En cualquier momento la entrada END termina el juego sin guardar los puntos. 
 <br /> 5 Cuando se ha completado una vuelta al rosco, salta una alerta de "Siguiente ronda".
 <br /> 6 A partir de la segunda vuelta al rosco, el programa solo pregunta las letras a las que el jugador haya Pasadopalabra antes.
-<br /> 7 Si todas las letras del rosco están correctas y/o incorrectas el juego termina y muestra la puntuación.
+<br /> 7 El juego termina y muestra la puntuación cuando todas las letras del rosco están han sido respondidas correcta o incorrectamente.
