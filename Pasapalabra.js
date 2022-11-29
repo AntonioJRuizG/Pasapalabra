@@ -239,7 +239,7 @@ const getTime = () => {
     min = today.getMinutes();
     sec = today.getSeconds();
 
-    let timer = 10; //130 segundos por turno
+    let timer = 130; //130 segundos por turno
     timeLimitSeconds = sec + min * 60 + hour * 3600 + timer;
     newHour = Math.floor(timeLimitSeconds / 3600);
     newHour = (newHour >= 24) ? newHour % 24 : newHour;
